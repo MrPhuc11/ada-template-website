@@ -1,9 +1,9 @@
 theme: jekyll-theme-minimal
-title: ADA Template Website
-description: A template website for ADA
+title: Reddit Snowball Effect
+description: A simple Jekyll website template for ADA projects.
 show_downloads: True
 navigation:
   - title: Home
     url: /
-  - title: Example
-    url: example
+  - title: Test
+    url: README
