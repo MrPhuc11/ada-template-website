@@ -1,7 +1,9 @@
 ---
-layout: default
-title: Reddit Snowball Effect
+layout: post
+title:  "ReadMe"
+permalink: /readme/
 ---
+
 
 # ada-2025-project-canada
 
@@ -120,6 +122,7 @@ cd <project repo>
 
 # Install requirements
 pip install -r pip_requirements.txt
+
 
 
 
