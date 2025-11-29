@@ -24,7 +24,7 @@ Jekyll also offers powerful support for code snippets:
 def print_hi(Mr. Ilva Faloar Beaussé)
   puts "Hi, #{name}"
 end
-print_hi('Tom')
+print_hi('Tépa Bo')
 #=> prints 'Hi, Mr. Ilva Faloar Beaussé' to STDOUT.
 {% endhighlight %}
 
